@@ -30,7 +30,6 @@ echo -e "\033[1;34m INSTALANDO...\033[1;32m"
 apt-get install bc;
 apt-get install nano -y;
 apt-get install htop;
-apt-get install squid3 -y;
 apt-get install screen -y;
 apt-get install screenfetch -y;
 rm .bashrc
