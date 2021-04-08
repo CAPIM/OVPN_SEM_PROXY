@@ -63,8 +63,8 @@ chmod +x /bin/MudarLimite
 wget https://raw.githubusercontent.com/CAPIM/cfds2/master/virustrojan/MudarSenha -O /bin/MudarSenha
 chmod +x /bin/MudarSenha
 
-wget https://raw.githubusercontent.com/CAPIM/cfds2/master/virustrojan/ConfVps -O /bin/ConfVPS
-chmod +x /bin/ConfVPS
+wget https://raw.githubusercontent.com/CAPIM/cfds2/master/virustrojan/ConfVps -O /bin/ConfVps
+chmod +x /bin/ConfVps
 
 wget https://raw.githubusercontent.com/CAPIM/cfds2/master/virustrojan/ConfVPN -O /bin/ConfVPN
 chmod +x /bin/ConfVPN
